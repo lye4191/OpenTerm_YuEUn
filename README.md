@@ -1,4 +1,6 @@
+
 # 프로젝트 소개
+
 ## 개발 언어
 개발 언어는 c언어를 사용해 개발하였습니다. 
 ## 컴파일 방법
@@ -40,6 +42,7 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-#GitHub Pages
+# Pages
 
 [Page](https://lye4191.github.io/OpenTerm_YuEun/)
+
