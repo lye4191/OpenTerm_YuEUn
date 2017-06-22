@@ -11,9 +11,9 @@ gcc omok.c 만 입력해도 되지만 출력되는 파일 즉 실행 파일 이�
 알아보기 쉽게 gcc -o omok omok.c 를 입력하는 것을 추천 합니다.
 
 ## 실행 방법
-### gcc omok.c 를 입력했을 경우
+#### gcc omok.c 를 입력했을 경우
 ./a.out 을 입력하면 결과 값이 출력됩니다.
-### gcc -o omok omok.c 를 입력했을 경우
+#### gcc -o omok omok.c 를 입력했을 경우
 ./omok 입력하면 결과 값이 출력됩니다.
 
 # 라이선스
